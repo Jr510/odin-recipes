@@ -1,0 +1,38 @@
+.main--header {
+  text-align: center;
+  color: #008080;
+  font-size: 50px;
+}
+
+.recipe--links {
+  font-size: 22px;
+  color: #7f5b2d;
+}
+
+.recipe.main--header{
+  color: #6495ed;
+  font-size: 36px;
+}
+
+.img--resize {
+  height: auto;
+  width: 500px;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.ingredient--list {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.steps--list p {
+  font-size: 20px;
+}
